@@ -20,7 +20,7 @@ namespace SingletonDemo
             Singleton student = Singleton.GetInstance;
             student.PrintDetails("From student object");
         }
-
+         
         private static void PrintTeacherDetails()
         {
             Singleton teacher = Singleton.GetInstance;
