@@ -1,0 +1,14 @@
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.AssemblyReference.cache
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Personal\Software-Engineering\Design-Patterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache
