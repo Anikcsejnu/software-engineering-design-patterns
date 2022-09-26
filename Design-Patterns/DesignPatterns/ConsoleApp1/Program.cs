@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace SingletonDemo
 {
@@ -6,14 +7,24 @@ namespace SingletonDemo
     {
         static void Main(string[] args)
         {
-            Singleton teacher = Singleton.GetInstance;
-            teacher.PrintDetails("From teacher object");
+            Parallel.Invoke(
+                () => PrintStudentDetails(),
+                () => PrintTeacherDetails()
+            ); 
 
+            Console.ReadLine();
+        }
+
+        private static void PrintStudentDetails()
+        {
             Singleton student = Singleton.GetInstance;
             student.PrintDetails("From student object");
-            Console.ReadLine(); 
+        }
 
-            Console.WriteLine("----------------");
+        private static void PrintTeacherDetails()
+        {
+            Singleton teacher = Singleton.GetInstance;
+            teacher.PrintDetails("From teacher object");
         }
     }
 }

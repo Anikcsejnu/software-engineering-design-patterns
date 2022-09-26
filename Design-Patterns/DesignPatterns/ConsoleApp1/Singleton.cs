@@ -8,13 +8,20 @@ namespace SingletonDemo
     {
         private static int counter = 0;
         private static Singleton instance = null;
+        private static readonly Object obj = new Object();
         public static Singleton GetInstance
         {
             get
-            {   
-                if (instance == null)
+            {   if (instance == null)
                 {
-                    instance = new Singleton();
+
+                    lock (obj)
+                    {
+                        if (instance == null) // double check locking
+                        {
+                            instance = new Singleton();
+                        }
+                    }
                 }
                 return instance;
             }
