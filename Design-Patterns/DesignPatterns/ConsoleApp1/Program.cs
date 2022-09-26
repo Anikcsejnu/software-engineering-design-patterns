@@ -12,6 +12,8 @@ namespace SingletonDemo
             Singleton student = Singleton.GetInstance;
             student.PrintDetails("From student object");
             Console.ReadLine(); 
+
+            Console.WriteLine("----------------");
         }
     }
 }
