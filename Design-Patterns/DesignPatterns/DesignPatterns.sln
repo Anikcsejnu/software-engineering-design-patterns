@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDemo", "DecoratorP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDemo", "ObserverDesignpattern\ObserverDemo.csproj", "{2A5CAB15-C4F7-42F0-BB0E-6B80F2093EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDemo", "CommandDemo\CommandDemo.csproj", "{FDF58D00-F47C-44CE-9A59-48FE141B7D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandDemo", "CommandDemo\CommandDemo.csproj", "{FDF58D00-F47C-44CE-9A59-48FE141B7D84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

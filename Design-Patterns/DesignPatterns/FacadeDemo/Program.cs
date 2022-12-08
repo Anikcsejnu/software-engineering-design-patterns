@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StaticDemo
+namespace FacadeDemo
 {
     internal class Program
     {
